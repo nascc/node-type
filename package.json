@@ -1,0 +1,17 @@
+{
+  "name": "type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc --declaration"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
